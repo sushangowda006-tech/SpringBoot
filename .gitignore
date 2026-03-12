@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Local project folders
 >>>>>>> 3b99ed717fe991ecd488292f6867b8eb21a62711
+=======
+>>>>>>> 3e67eac394e99441a8fe3e3b4445c95a183ce637
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
@@ -29,16 +32,21 @@ target/
 /dist/
 /nbdist/
 <<<<<<< HEAD
+<<<<<<< HEAD
 /.nb-gradle/
 =======
 .nb-gradle/
 >>>>>>> 3b99ed717fe991ecd488292f6867b8eb21a62711
+=======
+/.nb-gradle/
+>>>>>>> 3e67eac394e99441a8fe3e3b4445c95a183ce637
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -67,3 +75,5 @@ build/
 hs_err_pid*
 replay_pid*
 >>>>>>> 3b99ed717fe991ecd488292f6867b8eb21a62711
+=======
+>>>>>>> 3e67eac394e99441a8fe3e3b4445c95a183ce637
